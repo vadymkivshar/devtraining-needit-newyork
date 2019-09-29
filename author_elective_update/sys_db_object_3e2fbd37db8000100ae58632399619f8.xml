@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt Task</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit_task</name>
+        <number_ref display_value="NITASK">9e6fb177db8000100ae586323996198c</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-29 11:52:19</sys_created_on>
+        <sys_id>3e2fbd37db8000100ae58632399619f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_3e2fbd37db8000100ae58632399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-29 11:52:20</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_58872_needit.needit_task_user" name="x_58872_needit.needit_task_user">8f8924cc4f1bb200a9e6f4934210c744</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1bbc4f2edbe9f74407072f17d49619fe</instance_id>
+        <instance_name>dev86697</instance_name>
+        <name>sys_db_object_3e2fbd37db8000100ae58632399619f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>NeedIt Task</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit_task</name><number_ref display_value="NITASK">9e6fb177db8000100ae586323996198c</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-29 11:52:19</sys_created_on><sys_id>3e2fbd37db8000100ae58632399619f8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NeedIt Task</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_3e2fbd37db8000100ae58632399619f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-29 11:52:20</sys_updated_on><update_access>true</update_access><user_role display_value="x_58872_needit.needit_task_user" name="x_58872_needit.needit_task_user">8f8924cc4f1bb200a9e6f4934210c744</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-737280472</payload_hash>
+        <record_name>NeedIt Task</record_name>
+        <reverted_from/>
+        <source>c1b5353bdb4000100ae5863239961975</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-29 11:52:20</sys_created_on>
+        <sys_id>d66fb177db8000100ae5863239961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d7cdd4ce60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-29 11:52:20</sys_updated_on>
+        <type>Table</type>
+        <update_guid>126fb177d88000103a92ddf6d04e1492</update_guid>
+        <update_guid_history>126fb177d88000103a92ddf6d04e1492:-737280472,126fb17739800010461b97adec00c28c:-419717802</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-29 11:55:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>aed94f0753504ae48d9ced2c0c2330f1</sys_id>
+        <sys_metadata>3e2fbd37db8000100ae58632399619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_3e2fbd37db8000100ae58632399619f8</sys_update_name>
+        <sys_update_version display_value="sys_db_object_3e2fbd37db8000100ae58632399619f8">d66fb177db8000100ae5863239961992</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-29 11:55:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
